@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Patil</h1>
+<h1 align="center">Komal Patil</h1>
 <h3 align="center">I love Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-patil04&label=Profile%20views&color=0e75b6&style=flat" alt="komal-patil04" /> </p>
