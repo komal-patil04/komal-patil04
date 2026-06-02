@@ -20,11 +20,11 @@
 
 ## Looking For
 
-Entry-Level Software Developer
-Data Analyst
+Entry-Level Software Developer, 
+Data Analyst, 
 Python Developer
 
 ## Connect With Me
 
-LinkedIn:  www.linkedin.com/in/komalpatil02
+LinkedIn:  www.linkedin.com/in/komalpatil02 
 Email: kpatil2004@gmail.com
